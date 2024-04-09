@@ -1,12 +1,12 @@
 # Boutique Management System
 
-Welcome to Local Boutique, a personalized software solution built using Python Django and leveraging MySQL database. This project is designed to cater to the specific needs of clients, providing them with a comprehensive solution tailored to their requirements.
+Welcome to Local Boutique, a personalized software solution built using Python Flask and leveraging MySQL database. This project is designed to cater to the specific needs of clients, providing them with a comprehensive solution tailored to their requirements.
 
 ## About
 
-Local Boutique is my personalized software solution, meticulously crafted with Python Django and a MySQL database, with the goal of streamlining business management processes and enhancing both operational efficiency and customer satisfaction. Leveraging Django's powerful features, I've tailored the application to meet the specific needs of clients, offering functionalities such as inventory management, customer relationship management, and seamless order processing. By deploying the application on Heroku, I ensure accessibility and reliability for users, enabling them to experience the benefits of efficient business management from anywhere.
+Local Boutique is my personalized software solution, meticulously crafted with Python Flask and a MySQL database, with the goal of streamlining business management processes and enhancing both operational efficiency and customer satisfaction. Leveraging Flask's powerful features, I've tailored the application to meet the specific needs of clients, offering functionalities such as inventory management, customer relationship management, and seamless order processing. By deploying the application on Heroku, I ensure accessibility and reliability for users, enabling them to experience the benefits of efficient business management from anywhere.
 
-Through Local Boutique, I've aimed to revolutionize business operations by providing a comprehensive solution that empowers users to efficiently manage their inventory, nurture customer relationships, and streamline order fulfillment processes. Utilizing the robust capabilities of Python Django and the reliability of a MySQL database, I've developed a platform that not only meets the unique requirements of clients but also enhances their overall business performance. With deployment on Heroku, I ensure seamless accessibility and scalability, allowing users to experience the full potential of Local Boutique in optimizing their business operations.
+Through Local Boutique, I've aimed to revolutionize business operations by providing a comprehensive solution that empowers users to efficiently manage their inventory, nurture customer relationships, and streamline order fulfillment processes. Utilizing the robust capabilities of Python Flask and the reliability of a MySQL database, I've developed a platform that not only meets the unique requirements of clients but also enhances their overall business performance. With deployment on Heroku, I ensure seamless accessibility and scalability, allowing users to experience the full potential of Local Boutique in optimizing their business operations.
 
 ## Features
 
@@ -16,7 +16,7 @@ Through Local Boutique, I've aimed to revolutionize business operations by provi
 
 ## Technologies Used
 
-- **Python Django**: The backend framework used for building the application.
+- **Python Flask**: The backend framework used for building the application.
 - **MySQL Database**: Stores data related to products, customers, orders, and more.
 - **Heroku**: Deployment platform for hosting the application in a production environment.
 
