@@ -23,9 +23,9 @@ Through Local Boutique, I've aimed to revolutionize business operations by provi
 
 ## Project Photos
 <img src="work-3.jpg">
-<img src="work3-1.jpg">
-<img src="work3-2.jpg">
-<img src="work3-3.jpg">
+<img src="work3-1.png">
+<img src="work3-2.png">
+<img src="work3-3.png">
 
 ## Getting Started
 
