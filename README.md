@@ -1,10 +1,12 @@
-# Local Boutique
+# Boutique Management System
 
 Welcome to Local Boutique, a personalized software solution built using Python Django and leveraging MySQL database. This project is designed to cater to the specific needs of clients, providing them with a comprehensive solution tailored to their requirements.
 
 ## About
 
-Local Boutique aims to streamline various aspects of business management, offering features tailored to meet the unique needs of clients. From inventory management to customer relationship management, this application provides a seamless experience to enhance operational efficiency and customer satisfaction.
+Local Boutique is my personalized software solution, meticulously crafted with Python Django and a MySQL database, with the goal of streamlining business management processes and enhancing both operational efficiency and customer satisfaction. Leveraging Django's powerful features, I've tailored the application to meet the specific needs of clients, offering functionalities such as inventory management, customer relationship management, and seamless order processing. By deploying the application on Heroku, I ensure accessibility and reliability for users, enabling them to experience the benefits of efficient business management from anywhere.
+
+Through Local Boutique, I've aimed to revolutionize business operations by providing a comprehensive solution that empowers users to efficiently manage their inventory, nurture customer relationships, and streamline order fulfillment processes. Utilizing the robust capabilities of Python Django and the reliability of a MySQL database, I've developed a platform that not only meets the unique requirements of clients but also enhances their overall business performance. With deployment on Heroku, I ensure seamless accessibility and scalability, allowing users to experience the full potential of Local Boutique in optimizing their business operations.
 
 ## Features
 
@@ -17,6 +19,13 @@ Local Boutique aims to streamline various aspects of business management, offeri
 - **Python Django**: The backend framework used for building the application.
 - **MySQL Database**: Stores data related to products, customers, orders, and more.
 - **Heroku**: Deployment platform for hosting the application in a production environment.
+
+
+## Project Photos
+<img src="work-3.jpg">
+<img src="work3-1.jpg">
+<img src="work3-2.jpg">
+<img src="work3-3.jpg">
 
 ## Getting Started
 
